@@ -1,0 +1,7 @@
+{
+  "name": "Copy of FreshID - Smart ID Photo Editor",
+  "description": "A fresh, intelligent ID photo creation tool powered by Gemini. Features background removal, beauty filters, outfit changes, and standard ID size formatting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
